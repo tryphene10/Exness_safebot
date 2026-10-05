@@ -1,0 +1,11 @@
+﻿EP	0	20:05:47.254	Core 01	2023.02.15 07:00:00   NATIVE_EXEC | PASS | native fill has SL and TP
+RQ	0	20:05:47.254	Core 01	2023.02.15 07:00:00   NATIVE_EXEC | PASS | native fill matches monetary budget
+OE	0	20:05:47.254	Core 01	2023.02.15 07:00:00   NATIVE_EXEC | PASS | native pending exit closes position
+DH	0	20:05:47.254	Core 01	2023.02.15 07:00:00   NATIVE_EXEC | PASS | complete position lifecycle present in broker history
+HL	0	20:05:47.254	Core 01	2023.02.15 08:00:00   NATIVE_EXEC | PASS | native fill has SL and TP
+KE	0	20:05:47.254	Core 01	2023.02.15 08:00:00   NATIVE_EXEC | PASS | native fill matches monetary budget
+HK	0	20:05:47.254	Core 01	2023.02.15 08:00:00   NATIVE_EXEC | PASS | native daily stop closes position
+EM	0	20:05:47.254	Core 01	2023.02.15 08:00:00   NATIVE_EXEC | PASS | complete position lifecycle present in broker history
+EM	0	20:05:47.254	Core 01	2023.02.17 23:59:59   NATIVE_EXEC | PASS | both native execution cycles complete
+FN	0	20:05:47.254	Core 01	2023.02.17 23:59:59   NATIVE_EXEC_RESULT | PASS=9 FAIL=0
+RI	0	20:05:47.254	Core 01	final balance 999.80 USD

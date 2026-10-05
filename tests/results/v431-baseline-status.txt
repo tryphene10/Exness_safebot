@@ -1,0 +1,7 @@
+Baseline batch status - 2026-09-14
+NOT EXECUTED; no performance result was fabricated.
+Blocker 1: the primary MetaTrader 5 terminal was open as PID 35648; the reproducible runner refuses to reuse a live trading terminal.
+Blocker 2: the target account round-trip commission per lot is unknown. Zero commission requires explicit -ZeroCommissionAccount confirmation.
+Required scenarios are prepared and engine-asserted: BREAKOUT_ONLY, SPRING_ONLY, COMBINED.
+Required model is Model=4 (real ticks), EURUSD H1, deposit 1000 USD, leverage 1:100, 2021-01-01 through exclusive bound 2026-01-01.
+Any history timeout, complete generated-tick fallback, missing fingerprint, scenario mismatch, zero snapshots, or missing report causes a hard failure.

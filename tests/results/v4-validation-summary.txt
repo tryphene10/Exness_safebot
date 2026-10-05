@@ -1,0 +1,8 @@
+Exness MT5 SafeBot V4 validation
+EA compilation: PASS (0 errors, 0 warnings)
+Core, risk, structure, warmup and expert-decision tests: PASS=93 FAIL=0
+Signal tests: PASS=26 FAIL=0
+Buffer tests: PASS=7 FAIL=0
+Data integration: PASS=1 FAIL=0 (H1=2160 bars, H4=540 bars)
+Profiles: PASS (3 profiles, 88 inputs each)
+Total assertions/checks: PASS=127 FAIL=0

@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Path":  "D:\\Mes_projets_ia\\Exness_MT5_SafeBot\\ExnessSafeBot.mq5",
+        "Length":  83785,
+        "LastWriteTime":  "2026-09-14T08:19:17.7082667+01:00",
+        "SHA256":  "098D65050430DD93F66B00CBD68749D9FD1B5969C95633F92E9FCC2A98CD12D5"
+    },
+    {
+        "Path":  "D:\\Mes_projets_ia\\Exness_MT5_SafeBot\\Include\\SafeBotCore.mqh",
+        "Length":  11898,
+        "LastWriteTime":  "2026-09-14T07:59:20.5797451+01:00",
+        "SHA256":  "F1EE4BDCAE6D4F2BA35C43A54325ADF450599A828F253E9DC9D9178555DCE227"
+    },
+    {
+        "Path":  "D:\\Mes_projets_ia\\Exness_MT5_SafeBot\\ExnessSafeBot.ex5",
+        "Length":  156770,
+        "LastWriteTime":  "2026-09-14T08:30:00.4509852+01:00",
+        "SHA256":  "E895461626BECF4B0D72C5586CB7973D5F57E918129343F1BB7D01CA4BEABC46"
+    },
+    {
+        "Path":  "C:\\Users\\Rufus\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075\\MQL5\\Experts\\SafeBotAudit\\ExnessSafeBot.mq5",
+        "Length":  83785,
+        "LastWriteTime":  "2026-09-14T08:19:17.7082667+01:00",
+        "SHA256":  "098D65050430DD93F66B00CBD68749D9FD1B5969C95633F92E9FCC2A98CD12D5"
+    },
+    {
+        "Path":  "C:\\Users\\Rufus\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075\\MQL5\\Experts\\SafeBotAudit\\Include\\SafeBotCore.mqh",
+        "Length":  11898,
+        "LastWriteTime":  "2026-09-14T07:59:20.5797451+01:00",
+        "SHA256":  "F1EE4BDCAE6D4F2BA35C43A54325ADF450599A828F253E9DC9D9178555DCE227"
+    },
+    {
+        "Path":  "C:\\Users\\Rufus\\AppData\\Roaming\\MetaQuotes\\Terminal\\D0E8209F77C8CF37AD8BF550E51FF075\\MQL5\\Experts\\SafeBotAudit\\ExnessSafeBot.ex5",
+        "Length":  156770,
+        "LastWriteTime":  "2026-09-14T08:30:00.4509852+01:00",
+        "SHA256":  "E895461626BECF4B0D72C5586CB7973D5F57E918129343F1BB7D01CA4BEABC46"
+    }
+]

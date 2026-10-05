@@ -1,0 +1,4 @@
+[
+  {"candidate":"SYNTHETIC_STABLE","runs":[{"score":10,"admissible":true},{"score":10,"admissible":true},{"score":10,"admissible":true}]},
+  {"candidate":"SYNTHETIC_SPIKE","runs":[{"score":30,"admissible":true},{"score":0,"admissible":false},{"score":0,"admissible":false}]}
+]

@@ -1,0 +1,7 @@
+﻿Monetary validation attempt - 2026-09-10
+ProfitInPips=0; deposit=1000 USD; requested period=2023-01-01 to 2025-01-01.
+Completed monetary run observed in the connected terminal: final balance 1002.60 USD.
+Result rejected for performance validation: PF=1.03, equity DD=5.16%, trades=55, OnTester=-33.77155.
+Requested real-tick mode fell back to generated ticks: no real ticks, every tick generation used.
+Requested period 2021-01-01 to 2026-01-01 was not fully covered; available data began 2023-01-07 and the final bot event was 2024-08-21.
+Native synthetic execution probe independently passed 9/9; see v430-native-summary.txt.

@@ -1,0 +1,8 @@
+﻿Technical verification 2026-09-10
+EA source recompiled: 0 errors, 0 warnings
+Core tests rerun: PASS=93 FAIL=0
+Signal tests rerun: PASS=26 FAIL=0
+Buffer tests rerun: PASS=7 FAIL=0
+Total assertions rerun: PASS=126 FAIL=0
+Execution: isolated portable terminal under .validation/terminal
+No strategy backtest or profitability assessment performed in this run.

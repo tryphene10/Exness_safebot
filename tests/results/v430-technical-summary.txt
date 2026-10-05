@@ -1,0 +1,9 @@
+﻿Technical tests V4.30 - 2026-09-10T18:53:33.1263237+01:00 Compilation: 0 errors, 0 warnings
+SafeBotCoreTests: PASS=93 FAIL=0
+SafeBotSignalTests: PASS=26 FAIL=0
+SafeBotBufferTests: PASS=7 FAIL=0
+SafeBotExecutionTests: PASS=28 FAIL=0
+SafeBotRestartWrite: PASS=1 FAIL=0
+SafeBotRestartRead: PASS=4 FAIL=0
+SafeBotDataFixture: PASS=1 ready=1 barsH1=2160 barsH4=540
+Execution tests use a simulated broker; data integration uses synthetic history. No live orders.
